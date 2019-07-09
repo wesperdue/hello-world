@@ -5,3 +5,4 @@ I'm getting acquainted with Github. I'm studying Python, I'm reacquainting mysel
 
 Test from Fork.
 A second change.
+A test from WC iPad.
